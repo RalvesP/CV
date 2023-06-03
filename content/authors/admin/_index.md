@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Rui Alves
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Rui
+last_name: Alves
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Big Data engineer student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,21 +27,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Cleaning
+  - Data Visualisation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Mestrado em Análise e Engenharia de Big Data
+      institution: Nova SST
+      year: ongoing
+    - course: Licenciatura em Ciências da Engenharia Mecânica
+      institution: Nova SST
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
